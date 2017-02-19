@@ -1,4 +1,8 @@
 Address,City,State,Attribute,Latitude,Longitude
+4800 Harry Hines Blvd,Dallas,TX,Destroyed,32.808671,-96.832937
+4900 Harry Hines Blvd,Dallas,TX,Major,32.809378,-96.833645
+5000 Harry Hines Blvd,Dallas,TX,Minor,32.809811,-96.834841
+5100 Harry Hines Blvd,Dallas,TX,Affected,32.8102,-96.8353
 5200 Harry Hines Blvd,Dallas,TX,Destroyed,32.810574,-96.835766
 5300 Harry Hines Blvd,Dallas,TX,Major,32.81227,-96.837421
 5400 Harry Hines Blvd,Dallas,TX,Minor,32.813437,-96.839475
